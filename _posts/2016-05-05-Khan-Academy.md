@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Khan Academy"
-author: "Paul Le"
+author: "Chuck thomas"
 categories: resources
 tags: [sample]
 image:
