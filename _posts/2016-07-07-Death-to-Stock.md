@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Death to Stock"
-author: "Paul Le"
+author: "Chuck thomas"
 categories: resources
 tags: [sample]
 image:
