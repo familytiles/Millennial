@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Math and Code Formatting"
-author: "Paul Le"
+author: "Chuck thomas"
 categories: sample
 tags: [sample]
 image:
