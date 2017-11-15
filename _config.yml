@@ -13,8 +13,8 @@ sass:
   style: :nested
 
 # Customise feed settings (uncommenting following two fields to customise feed title and description)
-#title:		     "Family tiles"
-#description:	     "A blog for the Lira Family business"
+#title:		     "Betty Saenz"
+#description:	     "A demo for client Betty Saenz, everything on this site is for demonstration purposes only"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
